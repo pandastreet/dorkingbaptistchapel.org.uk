@@ -1,0 +1,146 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+@charset "utf-8";
+
+$text-color: rgb(74, 74, 74);
+$small-width: 600px;
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 10.5pt;
+}
+
+body {
+  background-color: #fff;
+  font-family: "Helvetica Neue", "Helvetica", sans-serif;
+  margin: 0;
+  padding: 10px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 400;
+}
+
+a {
+  text-decoration: none;
+  color: $text-color;
+
+  &:hover {
+    border-bottom: 1px dotted #000;
+  }
+}
+
+blockquote {
+  font-style: italic;
+  font-size: 1.3rem;
+  margin: 0;
+}
+
+.wrapper {
+  width: 100%;
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.site-header {
+
+  a {
+    border: none;
+  }
+
+  img {
+    width: 100%;
+    max-width: 367px;
+  }
+}
+
+.container {
+  display: flex;
+  flex-flow: row wrap;
+}
+
+.site-nav {
+  font-size: 1.3rem;
+  margin-bottom: 20px;
+  text-align: center;
+
+  ul {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+  }
+
+  li {
+    display: inline-block;
+
+    &:not(:last-child) {
+      margin-right: 10px;
+    }
+  }
+
+  @media(min-width: $small-width) {
+    flex: 0 25%;
+    text-align: left;
+
+    li {
+      display: block;
+    }
+  }
+}
+
+.content {
+  flex-shrink: 1;
+
+  img {
+    max-width: 100%;
+  }
+
+  @media(min-width: $small-width) {
+    flex: 0 75%;
+  }
+}
+
+.home-sections {
+  display: flex;
+  flex-flow: row wrap;
+}
+
+.home-content {
+  flex-basis: 50%;
+  flex-shrink: 1;
+  flex-grow: 1;
+}
+
+.home-services {
+  flex-basis: 50%;
+  flex-shrink: 0;
+  flex-grow: 1;
+}
+
+.home-blackboard {
+  width: 300px;
+  height: 410px;
+  background-image: url("/img/blackboard.jpg");
+  padding: 40px;
+  color: #fff;
+  margin: 0 auto;
+}
+
+.home-logos {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+
+  a {
+    border: none;
+  }
+}
+
+.site-footer {
+  text-align: center;
+  margin-top: 20px;
+}

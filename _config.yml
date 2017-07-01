@@ -1,0 +1,30 @@
+# Site settings
+title: Dorking Baptist Chapel
+description: "Dorking Baptist Chapel welcomes you to our website, where you can find out more about us"
+keywords: "Dorking,Baptist,Chapel,Church,Christian,Christianity"
+baseurl: ""
+url: ""
+favicon: ""
+logo: "/img/logo.png"
+footer: >
+  Pastor: Brian Maidstone
+
+# Content
+navigation:
+  - title: "Home"
+    url: "/"
+  - title: "About Us"
+    url: "/about-us"
+  - title: "Events"
+    url: "/events"
+  - title: "Services"
+    url: "/services"
+  - title: "Groups"
+    url: "/groups"
+  - title: "Contact Us"
+    url: "/contact-us"
+  - title: "Our Town"
+    url: "/our-town"
+
+# Build settings
+markdown: kramdown

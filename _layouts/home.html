@@ -1,0 +1,22 @@
+---
+layout: default
+---
+
+<div class="home-sections">
+  <div class="home-content">
+    {{ content }}
+    <div class="home-logos">
+      {% for logo in page.logos %}<a href="{{ logo.url }}"><img src="{{ logo.img }}" alt=""></a>{% endfor %}
+    </div>
+  </div>
+  <div class="home-services">
+    <div class="home-blackboard">
+      {% for day in page.blackboard %}
+        <h4>{{ day.day }}</h4>
+        <ul>
+          {% for item in day.items %}<li>{{ item }}</li>{% endfor %}
+        </ul>
+      {% endfor %}
+    </div>
+  </div>
+</div>
