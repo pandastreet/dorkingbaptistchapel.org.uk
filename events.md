@@ -4,7 +4,7 @@ layout: default
 
 ## Events
 
-### TiddlyWinks (Parent & Toddler Group)  20th birthday celebration
+### **TiddlyWinks (Parent & Toddler Group)  20th birthday celebration**
 When? .... Saturday 16th September 2017,  3 - 6pm
 
 Where? ..... Dorking Baptist Chapel (Paper Mews, High Street, Dorking, behind Domino Pizza)
