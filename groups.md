@@ -4,17 +4,14 @@ layout: default
 
 ## Groups
 
-### Focus
-
-Focus is our group for teenagers. We meet on the last Saturday of the month.
 
 ### Trailblazers
 
-Trailblazers is for children in school years 4 to 8. We meet on Fridays from 7 to 8:15pm. There is a different activity each week e.g craft, games, cooking, themed evenings, trips out, and we finish with a story from the Bible. We have lots of fun!
+Trailblazers is for children in secondary school. We meet on alternate Fridays from 7 to 9pm. There is a different activity each week e.g craft, games, cooking, themed evenings, trips out, and we finish with a story from the Bible. We have lots of fun!
 
 ### Builders
 
-Every Sunday morning for 40 minutes or so we learn together from the Bible, using craft, games, discussions and other activities to apply the Bible’s teaching to our lives. Starting at 10am there are 2 age groups - one for the 8-11s and one for the 11-14s.
+Every Sunday morning, before the main service, for 40 minutes or so we learn together from the Bible, using craft, games, discussions and other activities to apply the Bible’s teaching to our lives. 
 
 ### Tiddlywinks
 
