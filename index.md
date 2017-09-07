@@ -3,9 +3,9 @@ layout: home
 blackboard:
   - day: "Sunday"
     items:
-      - "10.00am Builders"
-      - "11.00am Morning Service"
-      - "6.00pm Evening Service"
+      - "10.00am Builders."
+      - "11.00am Morning Service."
+      - "6.00pm Evening Service."
   - day: "Wednesday"
     items:
       - "7.30pm Prayer Meeting"
