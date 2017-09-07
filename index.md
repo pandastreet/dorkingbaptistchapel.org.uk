@@ -6,9 +6,10 @@ blackboard:
       - "10.00am Builders."
       - "11.00am Morning Service."
       - "6.00pm Evening Service."
+      
   - day: "Wednesday"
     items:
-      - "7.30pm Prayer Meeting"
+      - "7.30pm Prayer Meeting."
 logos:
   - img: "img/scriptureunion.jpg"
     url: "http://www.scriptureunion.org.uk/"
