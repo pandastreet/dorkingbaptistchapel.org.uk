@@ -21,4 +21,5 @@ logos:
     url: "http://www.agbcse.org.uk/"
 ---
 
-> Why not join us? A warm welcome awaits!  See our events page.
+> Why not join us? A warm welcome awaits!  
+Also see our events page.
