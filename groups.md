@@ -9,9 +9,9 @@ layout: default
 
 Trailblazers is for children in secondary school. We meet on alternate Fridays from 7 to 9pm. There is a different activity each week e.g craft, games, cooking, themed evenings, trips out, and we finish with a story from the Bible. We have lots of fun!
 
-### **Builders**
+### **Men's and Ladies' Bible study groups**
 
-Every Sunday morning, before the main service, for 40 minutes or so we learn together from the Bible, using craft, games, discussions and other activities to apply the Bible’s teaching to our lives. 
+Bible study groups meet monthly, to jointly discover and understand passages from the Bible.  For more details contact: Val Maidstone on 01306 883894 or Peter Hollands on 01306 885382. 
 
 ### **Tiddlywinks**
 
