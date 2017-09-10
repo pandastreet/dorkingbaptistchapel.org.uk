@@ -3,13 +3,13 @@ layout: home
 blackboard:
   - day: "Sunday"
     items:
-      - "10.00am Builders."
       - "11.00am Morning Service."
       - "6.00pm Evening Service."
       
   - day: "Wednesday"
     items:
       - "7.30pm Prayer Meeting."
+      - "and Bible Study."
 logos:
   - img: "img/scriptureunion.jpg"
     url: "http://www.scriptureunion.org.uk/"
@@ -21,4 +21,4 @@ logos:
     url: "http://www.agbcse.org.uk/"
 ---
 
-> Why not join us? A warm welcome awaits!
+> Why not join us? A warm welcome awaits!  See our events page.
