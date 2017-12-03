@@ -4,7 +4,7 @@ layout: default
 
 ## Next Events
 
-### **CHRISTMAS AT DORKING BAPTIST CHAPEL **
+### ** CHRISTMAS AT DORKING BAPTIST CHAPEL **
 
 ### **Visit to Lyons Court, Dorking -**
 On Wednesday 13th December for 7.15pm service start
