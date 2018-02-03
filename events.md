@@ -77,5 +77,5 @@ Sunday 1st April  EASTER DAY
 - 11am Easter Praise service; Preacher: Brian Maidstone
 (The communion service follows the evening service)
 
-__
+
 Please join us for prayer on Wednesday evenings at 7.30pm.
