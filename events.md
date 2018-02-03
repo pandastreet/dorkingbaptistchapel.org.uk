@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Next Events
+## **Next Events**
 
 ### **JANUARY 2018**
 
