@@ -4,7 +4,7 @@ layout: default
 
 ## Next Events
 
-### ** JANUARY 2018 ** ###
+### **JANUARY 2018**
 
 Sun 7th January;  Preachers: 
 - 11am: Brian Maidstone
@@ -28,7 +28,7 @@ Sun 28th January; Preachers:
 
 Tues 30th January;  Men's Bible Study at 8pm
 
-### ** FEBRUARY 2018 ** ###
+### **FEBRUARY 2018**
 
 Sun 4th February;  Preacher: 
 - 11am: Brian Maidstone
@@ -48,7 +48,7 @@ Wed 21st February; Members Meeting at 7.30pm
 
 Sun 25th February; Grace Baptist Mission Sunday with Daryl Jones
 
-### ** MARCH 2018 ** ###
+### **MARCH 2018**
 
 Sun 4th March; Preacher: 
 - 11am: Brian Maidstone  
@@ -70,7 +70,7 @@ Wed 28th March; Easter visit to Lyons Court   (time tbc)
 
 Fri 30th March; Good Friday Service at 10am
 
-### ** APRIL 2018 ** ###
+### **APRIL 2018**
 
 Sunday 1st April  EASTER DAY        
 - Breakfast at 9.45am
