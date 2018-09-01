@@ -26,9 +26,9 @@ Tuesday 18th (provisional) Men’s Bible study at 8pm
 Wednesday 19th Members’ Meeting at 7.30pm
 
 #### **Harvest Weekend:**
-Saturday morning, 22nd  Coffee morning 10.30am – 12 noon
+   Saturday morning, 22nd  Coffee morning 10.30am – 12 noon
 
-Sunday 23rd Harvest Praise preacher: Brian Maidstone
+   Sunday 23rd Harvest Praise preacher: Brian Maidstone
 - Join us for lunch after the service
 
 Wednesday 26th (provisional) Harvest visit to Lyons Court at 7pm 
@@ -52,11 +52,11 @@ Tuesday 9th (provisional) Men’s Bible study at 8pm
 Wednesday 10th SW District ‘local groups’ prayer meeting at Epsom at 7.45pm
 - including: Dorking, Horsham, Brighton, Hailsham)
 
-Church Anniversary Weekend:
-Saturday evening, 13th: more details in due course
+#### **Church Anniversary Weekend:**
+   Saturday evening, 13th: more details in due course
 – an opportunity to invite family, friends and neighbours
 
-Sunday 14th Preacher: Brian Maidstone
+   Sunday 14th Preacher: Brian Maidstone
 
 Sunday 21st Preacher: John Benton (Grace Church Guildford)
 
