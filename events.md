@@ -36,7 +36,7 @@ Wednesday 26th (provisional) Harvest visit to Lyons Court at 7pm
 Sunday 30th Preachers: 11am: Brian Maidstone
                        6pm: Joe Percy (leading) and Matt Beaumont (preaching)
 
-
+<br/>
 ### **OCTOBER:** 
 
 Tuesday 2nd Ladies Bible study at 8pm
