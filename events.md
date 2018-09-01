@@ -4,78 +4,68 @@ layout: default
 
 ## **Next Events**
 
-### **JANUARY 2018**
+### **SEPTEMBER: ** 
 
-Sun 7th January;  Preachers: 
-- 11am: Brian Maidstone
-- 5.15pm: Communion Service
-- 6pm: John Benton (Guildford)
+Sunday 2nd  Preacher: Brian Maidstone (pastor)	Communion at 5.15pm 
 
-Tues 9th January; Ladies Bible Study at 8pm
- 
-Sun 14th January;  Preacher: John Benton
+Tuesday 4th   Ladies’ Bible study at 8pm
 
-Tues 16th January; Men's New Year meal out (Redhill)
+Saturday 8th  Ladies invited to breakfast at Rehoboth church, Horsham
 
-Sun 21st January;  Preacher: Brian Maidstone
+Sunday 9th  Preachers: 11am: Brian Maidstone 
+                       6pm: Mathew Thomas (leading) and Hugh Griffin (preaching)
+ (a series on four Sunday evenings with young preachers from Grace Church, Guildford)
 
-Wed 24th January;  SW District 'local groups' prayer meeting at 7.45pm
-We are hosting at Dorking and includes also: Epsom, Horsham, Brighton and Hailsham
+Monday 10th ‘Tiddlywinks’ restarts (for the new school term) at 10am. Runs each Monday morning
 
-Sun 28th January; Preachers:  
-- 11am: Adrian Tribe  
-- 6pm: Brian Maidstone
+Sunday 16th Preachers: 11am: Paul Burden (ex member from DBC)
+                        6pm: Matt Beaumont (leading) and Mathew Thomas (preaching)
 
-Tues 30th January;  Men's Bible Study at 8pm
+Tuesday 18th (provisional) Men’s Bible study at 8pm
 
-### **FEBRUARY 2018**
+Wednesday 19th Members’ Meeting at 7.30pm
 
-Sun 4th February;  Preacher: 
-- 11am: Brian Maidstone
-- 6pm: John Miller (Staines) followed by the communion service
+Harvest Weekend:
+Saturday morning, 22nd  Coffee morning 10.30am – 12 noon
 
-Tues 6th February; Ladies' Bible Study at 8pm
+Sunday 23rd Harvest Praise preacher: Brian Maidstone
+- Join us for lunch after the service
 
-Sun 11th February; Preacher: Brian Maidstone
+Wednesday 26th (provisional) Harvest visit to Lyons Court at 7pm 
 
-(note: this week is the schools' half term)
+Sunday 30th Preachers: 11am: Brian Maidstone
+                       6pm: Joe Percy (leading) and Matt Beaumont (preaching)
 
-Sun 18th February; Preachers: 
-- 11am: Brian Maidstone
-- 6pm: Gerard Chrispin (Guildford)
 
-Wed 21st February; Members Meeting at 7.30pm
+### **OCTOBER: ** 
 
-Sun 25th February; Grace Baptist Mission Sunday with Daryl Jones
+Tuesday 2nd Ladies Bible study at 8pm
 
-### **MARCH 2018**
+Saturday 6th Our ‘Association’ of Churches, AGM and meetings in London  
+                                                                                                                                   
+Sunday 7th Preachers:  11am: to be announced
+                       6pm:  Hugh Griffin (leading) and Joe Percy (preaching)
+                       Communion service – timing to be announced
 
-Sun 4th March; Preacher: 
-- 11am: Brian Maidstone  
-- 5.15pm: Communion Service
+Tuesday 9th (provisional) Men’s Bible study at 8pm
 
-Mon 5th March; SW District Committee Meeting at Epsom at 7.45pm
+Wednesday 10th SW District ‘local groups’ prayer meeting at Epsom at 7.45pm
+(including: Dorking, Horsham, Brighton, Hailsham)
 
-Tues 6th March; Ladies Bible Study at 8pm
+Church Anniversary Weekend:
+Saturday evening, 13th: more details in due course
+– an opportunity to invite family, friends and neighbours
 
-Sun 11th March; Preachers: John Baldwin and Howard Millman
+Sunday 14th Preacher: Brian Maidstone
 
-Sun 18th March; Preacher: Brian Maidstone
+Sunday 21st Preacher: John Benton (Grace Church Guildford)
 
-Sun 25th March; Palm Sunday Service  Preacher: 
-- 11am Brian Maidstone
-- Afternoon: visiting Nower Care  (time tbc)
+Thursday 25th (evening) Ladies invited to Rehoboth, Horsham
 
-Wed 28th March; Easter visit to Lyons Court   (time tbc)
+Saturday 27th Grace Baptist Mission:  Annual Missions Day – Solihull (Midlands)
 
-Fri 30th March; Good Friday Service at 10am
-
-### **APRIL 2018**
-
-Sunday 1st April  EASTER DAY        
-- Breakfast at 9.45am
-- 11am Easter Praise service; Preacher: Brian Maidstone
-(The communion service follows the evening service)
-
+Sunday 28th Preacher: Alan Rigby (Hook Evangelical Church)
+   
 
 Please join us for prayer on Wednesday evenings at 7.30pm.
+
