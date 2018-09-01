@@ -65,7 +65,8 @@ Thursday 25th (evening) Ladies invited to Rehoboth, Horsham
 Saturday 27th Grace Baptist Mission:  Annual Missions Day – Solihull (Midlands)
 
 Sunday 28th Preacher: Alan Rigby (Hook Evangelical Church)
-.  
-.
+
+
+
 Please join us for prayer on Wednesday evenings at 7.30pm.
 
