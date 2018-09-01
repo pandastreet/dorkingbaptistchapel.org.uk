@@ -4,7 +4,7 @@ layout: default
 
 ## **Next Events**
 
-### **SEPTEMBER: ** 
+### **SEPTEMBER:** 
 
 Sunday 2nd  Preacher: Brian Maidstone (pastor)	Communion at 5.15pm 
 
@@ -37,7 +37,7 @@ Sunday 30th Preachers: 11am: Brian Maidstone
                        6pm: Joe Percy (leading) and Matt Beaumont (preaching)
 
 
-### **OCTOBER: ** 
+### **OCTOBER:** 
 
 Tuesday 2nd Ladies Bible study at 8pm
 
