@@ -4,69 +4,80 @@ layout: default
 
 ## **Next Events**
 
-### **SEPTEMBER:** 
+### **MARCH:**
+Sunday 3rd  preachers: 11am: Brian Maidstone     
+- Communion service at 5.15pm
+- 6pm:  Mathew Thomas, with Marius Jugariu leading
+This will be the first of a series of four Sunday evenings led by men from the ‘Proclaimers’ group from Grace Church, Guildford
 
-Sunday 2nd  Preacher: Brian Maidstone (pastor)	Communion at 5.15pm 
+Monday 4th  SW District committee meeting, 7.45pm at Epsom
 
-Tuesday 4th   Ladies’ Bible study at 8pm
+Tuesday 5th  Ladies Bible Study at 8pm
 
-Saturday 8th  Ladies invited to breakfast at Rehoboth church, Horsham
+Sunday 10th  11am: Thanksgiving service for Anna Faraday, led by Brian Maidstone
+- Everyone is welcome to stay for lunch after this service
+- 6pm: David Skull, with Joe Percy leading
 
-Sunday 9th  Preachers: 11am: Brian Maidstone 
-                       6pm: Mathew Thomas (leading) and Hugh Griffin (preaching)
-- a series on four Sunday evenings with young preachers from Grace Church, Guildford
+Saturday 16th  GBWA – Fellowship Day at Rehoboth church, Horsham
 
-Monday 10th ‘Tiddlywinks’ restarts (for the new school term) at 10am. Runs each Monday morning
+Sunday 17th preachers: 11am: John Benton (GCG)
+- 6pm: Jim Sayers (GBM)
 
-Sunday 16th Preachers: 11am: Paul Burden (ex member from DBC)
-                        6pm: Matt Beaumont (leading) and Mathew Thomas (preaching)
+Wednesday 20th  Members Meeting at 7.30pm
 
-Tuesday 18th (provisional) Men’s Bible study at 8pm
+Sunday 24th  preachers: 11am: Brian Maidstone
+- 6pm: Matt Beaumont, with Mathew Thomas leading
 
-Wednesday 19th Members’ Meeting at 7.30pm
+Sunday 31st  11am: visit from Graham and Sally Jones (GBM, home from Kenya)
+- Everyone is welcome to stay for lunch after this service
+- 6pm: led by Brian Maidstone 
+- Brian Hollands and Sue Walker will give a presentation about Romania
 
-#### **Harvest Weekend:**
-   Saturday morning, 22nd  Coffee morning 10.30am – 12 noon
+### **APRIL:**
+Note: SW District Prayer Meeting at Twickenham (date tbc)
 
-   Sunday 23rd Harvest Praise preacher: Brian Maidstone
-- Join us for lunch after the service
+Monday 1st  Tiddlywinks ‘Lunch and listen’
 
-Wednesday 26th (provisional) Harvest visit to Lyons Court at 7pm 
+Tuesday 2nd  Ladies Bible Study at 8pm
 
-Sunday 30th Preachers: 11am: Brian Maidstone
-                       6pm: Joe Percy (leading) and Matt Beaumont (preaching)
+Sunday 7th  preachers: 11am Brian Maidstone             
+- Communion service at 5.15pm
+- 6pm: Joe Percy, with Matt Beaumont leading
+
+Palm Sunday (14th)   preacher: Brian Maidstone
+
+Wednesday 17th  Easter visit to Lyons Court (tbc)
+
+Good Friday (19th)  Service at 10am
+
+Easter Day (Sunday 21st)  Breakfast at 9.45am
+- 11am: Easter Praise, led by Brian Maidstone
+- 6pm: Brian Maidstone
+
+Sunday 28th  preachers from Caterham Baptist Church
+- 11am: Howard Millman
+- 6pm: Jonathan Bailey
+
+### **MAY:**
+Sunday 5th  preachers: 11am: John Baldwin (Caterham BC)  
+- Communion service at 5.15pm
+- 6pm: Brian Maidstone
+
+Tuesday 7th  Ladies Bible Study at 8pm
+
+Sunday 12th  preachers: 11am: Billy Singh (Caterham BC)
+- 6pm: Brian Maidstone
+
+Sunday 19th  preacher: Keith Johns (Caterham BC)
+
+Children’s Camps at Root Hill Farm (Half Term)
+Saturday 25th – Monday 27th: ‘Mini Camp’
+
+Sunday 26th: preacher: Brian Maidstone
+
+Wednesday 29th – Saturday 1st June: ‘Main Camp’
 
 <br/>
-### **OCTOBER:** 
-
-Tuesday 2nd Ladies Bible study at 8pm
-
-Saturday 6th Our ‘Association’ of Churches, AGM and meetings in London  
-                                                                                                                                   
-Sunday 7th Preachers:  11am: to be announced
-                       6pm:  Hugh Griffin (leading) and Joe Percy (preaching)
-                       Communion service – timing to be announced
-
-Tuesday 9th (provisional) Men’s Bible study at 8pm
-
-Wednesday 10th SW District ‘local groups’ prayer meeting at Epsom at 7.45pm
-- including: Dorking, Horsham, Brighton, Hailsham)
-
-#### **Church Anniversary Weekend:**
-   Saturday evening, 13th: more details in due course
-– an opportunity to invite family, friends and neighbours
-
-   Sunday 14th Preacher: Brian Maidstone
-
-Sunday 21st Preacher: John Benton (Grace Church Guildford)
-
-Thursday 25th (evening) Ladies invited to Rehoboth, Horsham
-
-Saturday 27th Grace Baptist Mission:  Annual Missions Day – Solihull (Midlands)
-
-Sunday 28th Preacher: Alan Rigby (Hook Evangelical Church)
-
 <br/>
-<br/>
-Please join us for prayer on Wednesday evenings at 7.30pm.
+Please join us for prayer on Wednesday evenings at 7.30pm
 
