@@ -4,91 +4,54 @@ layout: default
 
 ## **Next Events**
 
-### **MARCH:**
-Sunday 3rd March 
-- 11am: Brian Maidstone     
-- Communion service at 5.15pm
-- 6pm:  Mathew Thomas, with Marius Jugariu leading
-This will be the first of a series of four Sunday evenings led by men from the ‘Proclaimers’ group from Grace Church, Guildford
+### **JUNE:**
 
-Monday 4th March:  SW District committee meeting, 7.45pm at Epsom
+Sunday 2nd June- preacher: Brian Maidstone  Communion service at 5.15pm
 
-Tuesday 5th March: Ladies Bible Study at 8pm
+Tuesday 4th June-  Ladies’ Bible study at 8pm
 
-Sunday 10th March  
-- 11am: Thanksgiving service for Anna Faraday, led by Brian Maidstone
-- Everyone is welcome to stay for lunch after this service
-- 6pm: David Skull, with Joe Percy leading
+Sunday 9th June- preacher: Brian Maidstone
 
-Saturday 16th March:  GBWA – Fellowship Day at Rehoboth church, Horsham
+Sunday 9th June to Sunday 16th- GBM Week of Prayer & giving
 
-Sunday 17th March
-- 11am: John Benton (GCG)
-- 6pm: Jim Sayers (GBM)
+Tuesday 11th June- Men’s Bible study
 
-Wednesday 20th March:  Members Meeting at 7.30pm
+Saturday 15th June- SW District Family Afternoon at Root Hill Farm, from 2pm - 7pm
 
-Sunday 24th March
-- 11am: Brian Maidstone
-- 6pm: Matt Beaumont, with Mathew Thomas leading
+Sunday 16th June- preacher: Alan Rigby (Hook E C)
 
-Sunday 31st March  
-- 11am: visit from Graham and Sally Jones (GBM, home from Kenya)
-- Everyone is welcome to stay for lunch after this service
-- 6pm: led by Brian Maidstone 
-- Brian Hollands and Sue Walker will give a presentation about Romania
+Sunday 23rd June- preachers: 11am: Paul Burden (Arundel BC, ex DBC)
+                                          6pm: John Miller (Staines)
 
-### **APRIL:**
-Note: SW District Prayer Meeting at Twickenham (date tbc)
+Wednesday 26th June- SW District Prayer Meeting, 7.45pm at Wandsworth
 
-Monday 1st April:  Tiddlywinks ‘Lunch and listen’
+Sunday 30th  June- preachers from Rehoboth Church, Horsham
+                     11am: Steve Piggott      6pm: Stuart Beadle
 
-Tuesday 2nd April:  Ladies Bible Study at 8pm
+### **JULY:**
+Tuesday 2nd July- Ladies’ Bible study at 8pm   (date of Men’s BS tbd)
 
-Sunday 7th April
-- 11am Brian Maidstone             
-- Communion service at 5.15pm
-- 6pm: Joe Percy, with Matt Beaumont leading
+Sunday 7th July- preacher: Brian Maidstone  (timing of communion service to be confirmed)
 
-Palm Sunday (14th April)   
-- preacher: Brian Maidstone
+Sunday 14th July- preacher: Brian Maidstone
 
-Wednesday 17th March:  Easter visit to Lyons Court (tbc)
+Monday 22nd July- Tiddlywinks (toddler group) ‘Lunch & Listen’
 
-Good Friday (19th April)
-- Service at 10am
+### **AUGUST:**
+Sunday 4th Aug- Prudential London-Surrey Cycle event
+                Timings of services to be decided 
 
-Easter Day (Sunday 21st April)  
-- Breakfast at 9.45am
-- 11am: Easter Praise, led by Brian Maidstone
-- 6pm: Brian Maidstone
+Sunday 11th Aug- preachers: 11am: Paul Burden (ABC)
+                 6pm: John Miller (Staines)
 
-Sunday 28th April  preachers from Caterham Baptist Church
-- 11am: Howard Millman
-- 6pm: Jonathan Bailey
+Tuesday 13th Aug to Thursday 23rd-  Pioneer Christian Camp at Hall Farm, Athelington, Suffolk
 
-### **MAY:**
-Sunday 5th May
-- 11am: John Baldwin (Caterham BC)  
-- Communion service at 5.15pm
-- 6pm: Brian Maidstone
+Saturday 17th Aug to Saturday 24th- GBM Youth Camp at Root Hill Farm
 
-Tuesday 7th May:   Ladies Bible Study at 8pm
+Sunday 18th Aug-  preachers: 11am: Youth Camp preacher (tbc)
+                  6pm (at the chapel): tbc
 
-Sunday 12th May
-- 11am: Billy Singh (Caterham BC)
-- 6pm: Brian Maidstone
-
-Sunday 19th May 
-- 11am and 6pm Keith Johns (Caterham BC)
-
-#### **Children’s Camps at Root Hill Farm (Half Term)**
-Saturday 25th – Monday 27th: ‘Mini Camp’
-
-Sunday 26th May: 
-- preacher: Brian Maidstone
-
-Wednesday 29th – Saturday 1st June: ‘Main Camp’
+Sunday 25th Aug- preacher: Brian Maidstone
 
 <br/>
 <br/>
