@@ -4,54 +4,52 @@ layout: default
 
 ## **Next Events**
 
-### **JUNE 2019:**
+### **SEPTEMBER 2019:**
 
-Sunday 2nd June- preacher: Brian Maidstone  Communion service at 5.15pm
+Sunday 1st Sep  preacher: Brian Maidstone    Communion Service at 5.15pm
 
-Tuesday 4th June-  Ladies’ Bible study at 8pm
+Tuesday 3rd Sep  Ladies’ Bible study at 8pm   
 
-Sunday 9th June- preacher: Brian Maidstone
+Sunday 8th Sep  preacher: 11am & 6pm: Keith Johns (from Caterham)
 
-Sunday 9th June to Sunday 16th- GBM Week of Prayer & giving
+Sunday 15th Sep  preacher: Brian Maidstone
 
-Tuesday 11th June- Men’s Bible study
+Tuesday 17th Sep  Men’s Bible study at 8pm
 
-Saturday 15th June- SW District Family Afternoon at Root Hill Farm, from 2pm - 7pm
+Sunday 22nd Sep  preacher: Jamie Southcombe (from Grace Church Guildford)
 
-Sunday 16th June- preacher: Alan Rigby (Hook E C)
+Wednesday 25th Sep  Harvest-themed visit to Lyons Court, Dorking  at 7pm
 
-Sunday 23rd June- preachers: 11am: Paul Burden (Arundel BC, ex DBC). 
-                                          6pm: John Miller (Staines)
+Harvest Weekend:
+Saturday 28th Sep  Macmillan Coffee Morning  10.30am - 12 noon
+ (and setting up the premises for Harvest Sunday)
 
-Wednesday 26th June- SW District Prayer Meeting, 7.45pm at Wandsworth
+Sunday 29th Sep  Brian Maidstone 11am: Harvest Praise; 6pm: Evening Praise
+Please join us for lunch after the morning service
+                                                   
+Monday 30th Sep  SW District Committee here at 7.45pm
 
-Sunday 30th  June- preachers from Rehoboth Church, Horsham. 
-                     11am: Steve Piggott.      6pm: Stuart Beadle.
+### **OCTOBER 2019:**
+Note: from this month onwards, our Sunday morning service is at 10.30am
 
-### **JULY 2019:**
-Tuesday 2nd July- Ladies’ Bible study at 8pm   (date of Men’s BS tbd)
+Tuesday 1st Oct  Ladies’ Bible Study at 8pm
 
-Sunday 7th July- preacher: Brian Maidstone  (timing of communion service to be confirmed)
+Wednesday 2nd Oct  Members’ meeting; testimony and communion
 
-Sunday 14th July- preacher: Brian Maidstone
+Saturday 5th Oct Our Grace Baptist Association Annual Meetings at Aylesbury
 
-Monday 22nd July- Tiddlywinks (toddler group) ‘Lunch & Listen’
+Sunday 6th Oct  preacher: 10.30am & 6pm: Alan Rigby (from Hook EC)  
 
-### **AUGUST 2019:**
-Sunday 4th Aug- Prudential London-Surrey Cycle event. 
-                Timings of services to be decided 
+Church Anniversary Weekend:
+Saturday 12th Oct  Quiz Evening (with meal) 7pm (timing tbc)
 
-Sunday 11th Aug- preachers: 11am: Paul Burden (ABC). 
-                 6pm: John Miller (Staines)
+Sunday 13th Oct  preacher: 10.30am & 6pm: Dan Bryant (from Grace Baptist Mission, Abingdon)
 
-Tuesday 13th Aug to Thursday 23rd-  Pioneer Christian Camp at Hall Farm, Athelington, Suffolk
+Sunday 20th Oct  10.30am & 6pm: Brian Maidstone
 
-Saturday 17th Aug to Saturday 24th- GBM Youth Camp at Root Hill Farm
-
-Sunday 18th Aug-  preachers: 11am: Youth Camp preacher (tbc). 
-                  6pm (at the chapel): tbc
-
-Sunday 25th Aug- preacher: Brian Maidstone
+Saturday 26th Oct  Grace Baptist Mission: Missions Day (Friends House, Euston, London)
+                                                                                               
+Sunday 27th Oct  preachers: 10.30am & 6pm (tbc)
 
 <br/>
 <br/>
