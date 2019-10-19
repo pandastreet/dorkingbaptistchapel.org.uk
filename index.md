@@ -3,7 +3,7 @@ layout: home
 blackboard:
   - day: "Sunday"
     items:
-      - "11.00am Morning Service."
+      - "10.30am Morning Service."
       - "6.00pm Evening Service."
       
   - day: "Wednesday"
