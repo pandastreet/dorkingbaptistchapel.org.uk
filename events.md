@@ -4,53 +4,46 @@ layout: default
 
 ## **Next Events**
 
-### **SEPTEMBER 2019:**
+### **NOVEMBER:**
+Sunday 3rd  preacher:10.30am* & 6pm: Brian Maidstone; 5.15pm: Communion Service
+We will be joined by a small group of visitors from ‘Churches Together in Dorking’ 
 
-Sunday 1st Sep  preacher: Brian Maidstone    Communion Service at 5.15pm
+Tuesday 5th  Ladies’ Bible Study at 8pm 
+                  
+‘Remembrance Sunday’ 10th  10.30am: Brian Maidstone; 6pm: Peter Fenne (Chilworth Free Church)
 
-Tuesday 3rd Sep  Ladies’ Bible study at 8pm   
+Tuesday 12th   Men’s Bible Study at 8pm
 
-Sunday 8th Sep  preacher: 11am & 6pm: Keith Johns (from Caterham)
+Wednesday 13th   Members’ meeting at 7.30pm
 
-Sunday 15th Sep  preacher: Brian Maidstone
+Fri 15th – Sun 17th  GBWA weekend at High Leigh, Herts
 
-Tuesday 17th Sep  Men’s Bible study at 8pm
+Sunday 17th  preacher: 10.30am & 6pm: Brian Maidstone
 
-Sunday 22nd Sep  preacher: Jamie Southcombe (from Grace Church Guildford)
+Thursday 21st  SW District Prayer Meeting at Hailsham
 
-Wednesday 25th Sep  Harvest-themed visit to Lyons Court, Dorking  at 7pm
+Sunday 24th  preachers: 10.30am: Howard Millman (Caterham); 6pm: David Ansell (Horsham)
 
-Harvest Weekend:
-Saturday 28th Sep  Macmillan Coffee Morning  10.30am - 12 noon
- (and setting up the premises for Harvest Sunday)
+### **DECEMBER:**
+Sunday 1st  preachers: 10.30am: Paul Spear (Our Association); 5.15pm: Communion service; 6pm: Howard Millman (Caterham)
 
-Sunday 29th Sep  Brian Maidstone 11am: Harvest Praise; 6pm: Evening Praise
-Please join us for lunch after the morning service
-                                                   
-Monday 30th Sep  SW District Committee here at 7.45pm
+Tuesday 3rd  Ladies’ Bible study at 8pm
 
-### **OCTOBER 2019:**
-Note: from this month onwards, our Sunday morning service is at 10.30am
+Sunday 8th  preacher: 10.30am & 6pm: John Benton
 
-Tuesday 1st Oct  Ladies’ Bible Study at 8pm
+Tuesday 10th  Ladies’ Christmas meal; Men’s bible study at 8pm
 
-Wednesday 2nd Oct  Members’ meeting; testimony and communion
+Saturday 14th  pre-Christmas Coffee Morning 10.30am – 12 noon
 
-Saturday 5th Oct Our Grace Baptist Association Annual Meetings at Aylesbury
+Sunday 15th  preacher: 10.30am & 6pm: Brian Maidstone
 
-Sunday 6th Oct  preacher: 10.30am & 6pm: Alan Rigby (from Hook EC)  
+Wednesday 18th  Christmas visit to Lyons Court at 7pm (tbc)
 
-Church Anniversary Weekend:
-Saturday 12th Oct  Quiz Evening (with meal) 7pm (timing tbc)
+Sunday 22nd  preacher: 10.30am: Brian Maidstone; 4pm: Family Carol Service followed by tea
 
-Sunday 13th Oct  preacher: 10.30am & 6pm: Dan Bryant (from Grace Baptist Mission, Abingdon)
+25th Dec Christmas Morning Family Service 10am: Peter Hollands & Stephen Hogg
 
-Sunday 20th Oct  10.30am & 6pm: Brian Maidstone
-
-Saturday 26th Oct  Grace Baptist Mission: Missions Day (Friends House, Euston, London)
-                                                                                               
-Sunday 27th Oct  preachers: 10.30am & 6pm (tbc)
-
+Sunday 29th preacher: tbc
 <br/>
 <br/>
 Please join us for prayer on Wednesday evenings at 7.30pm
