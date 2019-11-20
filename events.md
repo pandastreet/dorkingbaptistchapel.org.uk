@@ -4,7 +4,7 @@ layout: default
 
 ## **Next Events**
 
-### **NOVEMBER:**
+### **NOVEMBER 2019:**
 Sunday 3rd  preacher:10.30am* & 6pm: Brian Maidstone; 5.15pm: Communion Service
 We will be joined by a small group of visitors from ‘Churches Together in Dorking’ 
 
@@ -24,7 +24,7 @@ Thursday 21st  SW District Prayer Meeting at Hailsham
 
 Sunday 24th  preachers: 10.30am: Howard Millman (Caterham); 6pm: David Ansell (Horsham)
 
-### **DECEMBER:**
+### **DECEMBER 2019:**
 Sunday 1st  preachers: 10.30am: Paul Spear (Our Association); 5.15pm: Communion service; 6pm: Howard Millman (Caterham)
 
 Tuesday 3rd  Ladies’ Bible study at 8pm
