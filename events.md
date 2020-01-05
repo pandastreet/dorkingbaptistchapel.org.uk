@@ -4,46 +4,48 @@ layout: default
 
 ## **Next Events**
 
-### **NOVEMBER 2019:**
-Sunday 3rd  preacher:10.30am* & 6pm: Brian Maidstone; 5.15pm: Communion Service
-We will be joined by a small group of visitors from ‘Churches Together in Dorking’ 
+### **JANUARY 2020:**
+Thursday 2nd  First prayer meeting of 2020 at 7.30pm
 
-Tuesday 5th  Ladies’ Bible Study at 8pm 
-                  
-‘Remembrance Sunday’ 10th  10.30am: Brian Maidstone; 6pm: Peter Fenne (Chilworth Free Church)
+Sunday 5th  preacher: 10.30am & 6pm: Brian Maidstone
+            5.15pm: Communion Service
 
-Tuesday 12th   Men’s Bible Study at 8pm
+Tuesday 7th  Ladies’ Bible study at 8pm 
 
-Wednesday 13th   Members’ meeting at 7.30pm
+Sunday 12th  preachers: 10.30am: Alan Rigby (Hook)
+             6pm: Naresh Mistry (Grace Church, Guildford)
 
-Fri 15th – Sun 17th  GBWA weekend at High Leigh, Herts
+Tuesday 14th  Men’s group meal; 7.30pm (The Grumpy Mole, Brockham)
 
-Sunday 17th  preacher: 10.30am & 6pm: Brian Maidstone
+Saturday 18th  Church family evening, 6 – 8pm (approx)
+with ‘bring and share’ buffet and games
 
-Thursday 21st  SW District Prayer Meeting at Hailsham
+Sunday 19th  preachers: 10.30am: Brian Maidstone
+             6pm: Tony Rummery (GCG)
 
-Sunday 24th  preachers: 10.30am: Howard Millman (Caterham); 6pm: David Ansell (Horsham)
+Wednesday 22nd  SW District ‘area groups’ prayer meeting, here at 7.45pm
+(includes: Dorking, Epsom, Horsham, Hailsham & Brighton)
 
-### **DECEMBER 2019:**
-Sunday 1st  preachers: 10.30am: Paul Spear (Our Association); 5.15pm: Communion service; 6pm: Howard Millman (Caterham)
+Sunday 26th  preacher: Brian Maidstone
 
-Tuesday 3rd  Ladies’ Bible study at 8pm
+### **FEBRUARY 2020:**
+Sunday 2nd   preachers: 10.30am & 6pm:  tbc
+             5.15pm: Communion Service
 
-Sunday 8th  preacher: 10.30am & 6pm: John Benton
+Tuesday 4th  Ladies’ Bible Study at 8pm
 
-Tuesday 10th  Ladies’ Christmas meal; Men’s bible study at 8pm
+Sunday 9th  preachers: 10.30am: Brian Maidstone
+            6pm: tbc
 
-Saturday 14th  pre-Christmas Coffee Morning 10.30am – 12 noon
+Tuesday 11th  Men’s Bible study at 8pm
 
-Sunday 15th  preacher: 10.30am & 6pm: Brian Maidstone
+Wednesday 12th  Members’ meeting at 7.30pm
 
-Wednesday 18th  Christmas visit to Lyons Court at 7pm (tbc)
+Sunday 16th  preachers: 10.30am: John Baldwin (Caterham BC)
+             6pm: Jonathan Bailey (CBC)
 
-Sunday 22nd  preacher: 10.30am: Brian Maidstone; 4pm: Family Carol Service followed by tea
+Sunday 23rd  preacher: John Benton (Grace Church, Guildford)
 
-25th Dec Christmas Morning Family Service 10am: Peter Hollands & Stephen Hogg
-
-Sunday 29th preacher: tbc
 <br/>
 <br/>
 Please join us for prayer on Wednesday evenings at 7.30pm
