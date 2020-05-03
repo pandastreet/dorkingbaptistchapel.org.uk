@@ -6,7 +6,8 @@ layout: default
 
 ### 2020 Virtual Dorking Baptist Chapel services (recorded on Zoom)
 * [Sunday 12 April Service](https://us02web.zoom.us/rec/share/wdx-N6_P5GpIfInp2kbDfp8KRLXIX6a823AYq6Ffmhy3LJVY6esqm_Bmg9qWMZ9R)
-* [Sunday 19 April Service](https://us02web.zoom.us/rec/share/-cZsMqrBr0NLEp2S0nneYIF6HoP8X6a81nRM__ZYzR7UZokanoDBuTIqyj_HtjrH) Password to view: 5N^w434M
+* [Sunday 19 April Service](https://us02web.zoom.us/rec/share/9M8qEaHJ0jtLTKPg1xvSWfMjPtj6eaa8hyFNq6VeyUfWWhV7YqRFFSfMEHFEH7G7) Password to view: 2g!$8@!=
+* [Sunday 26 April Service](https://us02web.zoom.us/rec/share/-cZsMqrBr0NLEp2S0nneYIF6HoP8X6a81nRM__ZYzR7UZokanoDBuTIqyj_HtjrH) Password to view: 5N^w434M
 
 ### What is a Christian (Brian Maidstone)
 
