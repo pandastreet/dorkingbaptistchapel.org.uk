@@ -4,11 +4,11 @@ layout: default
 
 ## Services
 
-### "2020 Virtual Dorking Baptist Chapel services (recorded on Zoom)"
+### 2020 Virtual Dorking Baptist Chapel services (recorded on Zoom)
 * [Sunday 12 April Service](https://us02web.zoom.us/rec/share/wdx-N6_P5GpIfInp2kbDfp8KRLXIX6a823AYq6Ffmhy3LJVY6esqm_Bmg9qWMZ9R)
-* [Sunday 19 April Service](https://us02web.zoom.us/rec/share/-cZsMqrBr0NLEp2S0nneYIF6HoP8X6a81nRM__ZYzR7UZokanoDBuTIqyj_HtjrH) Password: 5N^w434M
+* [Sunday 19 April Service](https://us02web.zoom.us/rec/share/-cZsMqrBr0NLEp2S0nneYIF6HoP8X6a81nRM__ZYzR7UZokanoDBuTIqyj_HtjrH) Password to view: 5N^w434M
 
-### "What is a Christian" (Brian Maidstone)
+### What is a Christian (Brian Maidstone)
 
 * [Part 1](/files/What_is_a_Christian_1.mp3)
 * [Part 2](/files/What_is_a_Christian_2.mp3)
@@ -16,7 +16,7 @@ layout: default
 * [Part 4](/files/What_is_a_Christian_4.mp3)
 * [Part 5](/files/What_is_a_Christian_5.mp3)
 
-### "The Ten Commandments" (Brian Maidstone)
+### The Ten Commandments (Brian Maidstone)
 
 * [Introduction](/files/10-commandments-intro.mp3)
 * [1st Commandment](/files/10-commandments-1.mp3)
