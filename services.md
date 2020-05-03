@@ -4,6 +4,10 @@ layout: default
 
 ## Services
 
+### "2020 Virtual DBC services (recorded on Zoom)"
+* [Sunday 12 April Service](https://us02web.zoom.us/rec/share/wdx-N6_P5GpIfInp2kbDfp8KRLXIX6a823AYq6Ffmhy3LJVY6esqm_Bmg9qWMZ9R)
+
+
 ### "What is a Christian" (Brian Maidstone)
 
 * [Part 1](/files/What_is_a_Christian_1.mp3)
