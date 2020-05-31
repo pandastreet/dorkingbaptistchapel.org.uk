@@ -5,9 +5,7 @@ layout: default
 ## Groups
 
 
-### **Trailblazers**
 
-Trailblazers is for children in secondary school. We meet on alternate Fridays from 7 to 9pm. There is a different activity each week e.g craft, games, cooking, themed evenings, trips out, and we finish with a story from the Bible. We have lots of fun!
 
 ### **Men's and Ladies' Bible study groups**
 
