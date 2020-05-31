@@ -17,7 +17,7 @@ logos:
     url: "http://www.gbm.org.uk/"
   - img: "img/affinity.jpg"
     url: "http://www.affinity.org.uk/"
-  - img: "img/agbcse.jpg"
+  - img: "img/gracebaptistslogo.png"
     url: "https://www.gracebaptists.org/"
 ---
 
