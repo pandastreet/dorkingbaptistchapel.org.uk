@@ -13,5 +13,6 @@ We are a people who believe that Jesus Christ, God's Son, died on the cross to t
 We are a people who would like to share what we have discovered with you and invite you to come and join us at our services where we will give you a warm welcome.
 
 We use a modern version of the Bible and sing both old and new hymns and songs. 
-
+<br/>
+<br/>
 "Jesus Christ is the same yesterday and today and forever." Hebrews 13 verse 8.
