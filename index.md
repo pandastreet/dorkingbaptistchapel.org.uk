@@ -18,7 +18,7 @@ logos:
   - img: "img/affinity.jpg"
     url: "http://www.affinity.org.uk/"
   - img: "img/agbcse.jpg"
-    url: "http://www.agbcse.org.uk/"
+    url: "http://www.gracebaptists.org/"
 ---
 
 > Why not join us? A warm welcome awaits!  
