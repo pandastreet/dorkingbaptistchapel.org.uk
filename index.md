@@ -8,7 +8,7 @@ blackboard:
       
   - day: "Wednesday"
     items:
-      - "7.30pm Prayer Meeting."
+      - "7.45pm Prayer Meeting."
       - "and Bible Study."
 logos:
   - img: "img/scriptureunion.jpg"
