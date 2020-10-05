@@ -9,7 +9,7 @@ layout: default
 
 ### **Men's and Ladies' Bible study groups**
 
-Bible study groups meet monthly, to jointly discover and understand passages from the Bible.  For more details contact: Val Maidstone on 01306 883894 or Peter Hollands on 01306 885382. 
+Bible study groups meet monthly, to jointly discover and understand passages from the Bible.  For more details contact: Val Maidstone on 01372 741562 or Peter Hollands on 01306 885382. 
 
 ### **Tiddlywinks**
 
