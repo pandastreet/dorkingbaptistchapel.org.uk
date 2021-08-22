@@ -16,7 +16,7 @@ Sunday 29th Aug, 10:30am: Sunday service at the chapel
 
 ### **SEPTEMBER 2021**
 
-Saturday 4th Sep, 3pm: Induction service for new pastor Paul Stevens.  At the chapel (also on Zoon online)
+Saturday 4th Sep, 3pm: Induction service for new pastor Paul Stevens.  At the chapel (also on Zoom online)
 
 Sunday 5th Sep, 10:30am: Sunday service at the chapel
 
@@ -26,7 +26,7 @@ Sunday 19th Sep, 10:30am: Sunday service at the chapel
 
 Sunday 26th Sep, 10:30am: Sunday service at the chapel
 
-For more information please get in touch using our contacts details.
+For more information please get in touch using our contacts details on the 'contact us' website page.
 
 <br/>
 <br/>
