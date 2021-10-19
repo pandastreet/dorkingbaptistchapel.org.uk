@@ -18,7 +18,7 @@ Contact us to get access to the zoom online connection details. See the 'contact
 * [Sunday 31 May Service](https://us02web.zoom.us/rec/share/1PxVE7Ko8E5LW6_uwxn8BrQ7P6H8T6a81HAX8vNbxE2_Ht92GJ36hBblmbTSxt3X) Password to view: 9F!98@3 
 * [Sunday 21 June Service](https://us02web.zoom.us/rec/share/1et-KZ631nJLbpHvxVD7R6JwBrzIeaa8hnIWqKYLyBv6eVsqIsxmtFRH_gNHxhvd) Password to view: 1P=2V=19
 
-### What is a Christian (Brian Maidstone)
+### What is a Christian (by Brian Maidstone)
 
 * [Part 1](/files/What_is_a_Christian_1.mp3)
 * [Part 2](/files/What_is_a_Christian_2.mp3)
@@ -26,7 +26,7 @@ Contact us to get access to the zoom online connection details. See the 'contact
 * [Part 4](/files/What_is_a_Christian_4.mp3)
 * [Part 5](/files/What_is_a_Christian_5.mp3)
 
-### The Ten Commandments (Brian Maidstone)
+### The Ten Commandments (by Brian Maidstone)
 
 * [Introduction](/files/10-commandments-intro.mp3)
 * [1st Commandment](/files/10-commandments-1.mp3)
