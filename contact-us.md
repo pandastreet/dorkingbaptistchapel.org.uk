@@ -8,7 +8,7 @@ Email us at: [info@dorkingbaptistchapel.org.uk](mailto:info@dorkingbaptistchapel
 
 Our address is: [Paper Mews, High Street, Dorking, Surrey, RH4 2TU](https://www.google.co.uk/maps/place/Dorking+Strict+Baptist+Chapel/@51.2336296,-0.3277357,19.15z/) (Behind Dominos Pizza).
 
-Contact:  Brian Maidstone (Pastor) on 01372 741562   or   Peter Hollands (Church secretary) on 01306 885382
+Contact:  Paul Stevens (Pastor) on 07710 179744   or   Peter Hollands (Church secretary) on 01306 885382
 
 Our Location:
 
