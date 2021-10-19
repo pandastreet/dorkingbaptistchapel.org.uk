@@ -3,12 +3,16 @@ layout: home
 blackboard:
   - day: "Sunday"
     items:
-      - "10.30am Morning Service."
-      - "6.00pm Evening Service."
+      - "10:30am Morning Service."
+      - "6:00pm Evening Service."
+  
+  - day: "Monday"
+    items:
+       - "10:00am Tiddlywinks Parent/toddler group."
       
   - day: "Wednesday"
     items:
-      - "7.45pm Prayer Meeting."
+      - "7:45pm Prayer Meeting"
       - "and Bible Study."
 logos:
   - img: "img/scriptureunion.jpg"
