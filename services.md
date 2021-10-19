@@ -4,9 +4,11 @@ layout: default
 
 ## Services
 
-Although we are unable to meet at the chapel during Covid-19 lockdown, we continue to meet on Sunday mornings at 10:30am and on Wednesday evenings at 7:45pm using ZOOM online.
+The chapel is open with covid-19 protection measures in place. Sunday meetings take place physically in the chapel.
+We continue to also use ZOOM online video conferencing, on Sundays at 10:30am and 6pm, and on Wednesday evenings at 7:45pm.
+Contact us to get access to the zoom online connection details. See the 'contact us' website page.
 
-For more information please get in touch using our contact details.
+
 
 ### 2020 Virtual Dorking Baptist Chapel services (recorded on Zoom)
 * [Sunday 12 April Service](https://us02web.zoom.us/rec/share/wdx-N6_P5GpIfInp2kbDfp8KRLXIX6a823AYq6Ffmhy3LJVY6esqm_Bmg9qWMZ9R)
