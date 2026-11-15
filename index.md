@@ -6,11 +6,11 @@ blackboard:
       - "10:30am Morning Service."
       - "6:00pm Evening Service."
   
-  - day: "Monday"
+  - day: " "
     items:
-       - "10:00am Tiddlywinks Parent/toddler group."
+       - " "
       
-  - day: "Wednesday"
+  - day: "Thursday"
     items:
       - "7:45pm Prayer Meeting"
       - "and Bible Study."
