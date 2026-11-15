@@ -29,4 +29,4 @@ logos:
 >   
 > Please note a new website is under development.
 >     
-Also see our events page.
+
